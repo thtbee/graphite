@@ -3,5 +3,3 @@ dist/
 .DS_Store
 *.log
 
-# Video asset (uploaded via GitHub release/attachments)
-demo/*.mp4

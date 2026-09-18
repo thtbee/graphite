@@ -37,6 +37,10 @@ Audio is procedural. Scrolling generates pencil-on-paper friction modulated by v
 </tr>
 </table>
 
+### Video Demo
+
+[Watch the full walkthrough (40s MP4)](demo/demo.mp4)
+
 ---
 
 ### What's in this repo
