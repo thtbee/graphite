@@ -2,7 +2,7 @@
 
 # Graphite
 
-A tactile digital monograph that simulates the physics of drawing with a flat graphite pencil on cold-press cotton paper.
+A monographic design skill that simulates the physics of drawing with a flat graphite pencil on cold-press cotton paper.
 
 </div>
 
