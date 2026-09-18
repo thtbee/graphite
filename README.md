@@ -39,10 +39,7 @@ Audio is procedural. Scrolling generates pencil-on-paper friction modulated by v
 
 ### Video Demo
 
-https://github.com/thtbee/graphite/raw/main/demo/demo.mp4
-
-<video src="https://github.com/thtbee/graphite/raw/main/demo/demo.mp4" controls="controls" style="max-width: 100%;">
-</video>
+https://github.com/user-attachments/assets/b88ad63e-507e-42f5-bef9-7309a7ccafcc
 
 ---
 
